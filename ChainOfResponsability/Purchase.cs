@@ -37,21 +37,21 @@ namespace Chain.RealWorld
 
             var p = new Purchase(2034, 350.00, "Assets");
 
-            larry.ProcessRequest(p);
+            winchester.ProcessRequest(p);
 
 
             p = new Purchase(2035, 32590.10, "Project X");
 
-            larry.ProcessRequest(p);
+            winchester.ProcessRequest(p);
 
 
             p = new Purchase(2036, 122100.00, "Project Y");
 
-            larry.ProcessRequest(p);
+            winchester.ProcessRequest(p);
 
             p = new Purchase(2037, 2000.00, "Project Z");
 
-            larry.ProcessRequest(p);
+            winchester.ProcessRequest(p);
 
 
             // Wait for user
