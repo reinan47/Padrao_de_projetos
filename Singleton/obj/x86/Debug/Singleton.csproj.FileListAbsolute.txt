@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\bin\Debug\Singleton.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\bin\Debug\Singleton.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\obj\x86\Debug\Singleton.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\obj\x86\Debug\Singleton.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\obj\x86\Debug\Singleton.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Singleton\obj\x86\Debug\Singleton.pdb

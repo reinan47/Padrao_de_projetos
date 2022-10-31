@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\bin\Debug\Observer.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\bin\Debug\Observer.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.pdb

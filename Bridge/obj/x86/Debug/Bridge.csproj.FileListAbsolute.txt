@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\bin\Debug\Bridge.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\bin\Debug\Bridge.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.pdb

@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\bin\Debug\Builder.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\bin\Debug\Builder.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.pdb

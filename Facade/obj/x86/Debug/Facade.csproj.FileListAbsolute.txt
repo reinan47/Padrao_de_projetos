@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb

@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\bin\Debug\FactoryMethod.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb

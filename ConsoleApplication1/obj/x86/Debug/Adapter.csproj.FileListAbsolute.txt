@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\bin\Debug\Adapter.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\bin\Debug\Adapter.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.pdb

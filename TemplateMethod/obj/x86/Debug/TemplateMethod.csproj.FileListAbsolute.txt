@@ -1,6 +1,0 @@
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.pdb
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.csproj.AssemblyReference.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
-C:\Users\reinan\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb
