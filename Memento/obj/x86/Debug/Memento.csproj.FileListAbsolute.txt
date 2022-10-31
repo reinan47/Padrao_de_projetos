@@ -1,0 +1,6 @@
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\bin\Debug\Memento.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\bin\Debug\Memento.pdb
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.pdb

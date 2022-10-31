@@ -1,0 +1,6 @@
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\bin\Debug\Prototype.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\bin\Debug\Prototype.pdb
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.pdb

@@ -1,0 +1,6 @@
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\bin\Debug\State.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\bin\Debug\State.pdb
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.csproj.AssemblyReference.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.pdb

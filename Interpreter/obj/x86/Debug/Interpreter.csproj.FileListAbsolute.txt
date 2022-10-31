@@ -1,0 +1,6 @@
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.pdb

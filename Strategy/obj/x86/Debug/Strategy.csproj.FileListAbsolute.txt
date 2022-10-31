@@ -1,0 +1,6 @@
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\bin\Debug\Strategy.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\bin\Debug\Strategy.pdb
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\reinan\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.pdb
