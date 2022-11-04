@@ -38,6 +38,10 @@ namespace Iterator.RealWorld
 
             collection[8] = new Item("Item 8");
 
+            collection[8] = new Item("Item 9");
+
+            collection[8] = new Item("Item 10");
+
 
             // Create iterator
 

@@ -31,7 +31,7 @@ namespace Command.RealWorld
 
             user.Compute('*', 7);
 
-            user.Compute('*',6);
+            user.Compute('*', 6);
 
             user.Compute('+', 200);
 
