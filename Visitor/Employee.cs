@@ -35,6 +35,8 @@ namespace Visitor.RealWorld
 
             e.Accept(new FaltasVisitor());
 
+            e.Accept(new FolgasVisitor());
+
 
             // Wait for user
 
@@ -96,6 +98,25 @@ namespace Visitor.RealWorld
 
         #endregion
     }
+
+    internal class FolgasVisitor : IVisitor
+    {
+        #region IVisitor Members
+
+        public void Visit(Element element)
+        {
+            var employee = element as Employee;
+
+            employee.Income = employee.Income - (employee.Income / 30 * employee.Faltas);
+
+            Console.WriteLine("{0} {1}'s new income: {2:C}",
+                              employee.GetType().Name, employee.Name,
+                              employee.Income);
+        }
+
+        #endregion
+    }
+
 
 
     /// <summary>

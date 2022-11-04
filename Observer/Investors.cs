@@ -24,6 +24,12 @@ namespace Observer.RealWorld
 
             ibm.Attach(new Investor("Dósea"));
 
+            var microsoft = new Microsoft("Microsoft", 200);
+
+            microsoft.Attach(new Investor("Sorros"));
+
+            microsoft.Attach(new Investor("Dósea"));
+
 
             // Fluctuating prices will notify investors
 
@@ -34,6 +40,14 @@ namespace Observer.RealWorld
             ibm.Price = 120.50;
 
             ibm.Price = 120.75;
+
+            microsoft.Price = 202;
+
+            microsoft.Price = 201.10;
+
+            microsoft.Price = 120.50;
+
+            microsoft.Price = 120.75;
 
 
             // Wait for user
@@ -127,6 +141,17 @@ namespace Observer.RealWorld
         {
         }
     }
+
+    internal class Microsoft : Stock
+    {
+        // Constructor
+
+        public Microsoft(string symbol, double price)
+            : base(symbol, price)
+        {
+        }
+    }
+
 
 
     /// <summary>

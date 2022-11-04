@@ -21,6 +21,8 @@ namespace Memento.RealWorld
 
             s.Phone = "(412) 256-0990";
 
+            s.PhoneCelular = "(077) 888-8888";
+
             s.Budget = 25000.0;
 
 
@@ -29,13 +31,15 @@ namespace Memento.RealWorld
             var m = new ProspectMemory();
 
             s.SaveMemento(m.Memento);
-            
+
 
             // Continue changing originator
 
             s.Name = "Leo Welch";
 
             s.Phone = "(310) 209-7111";
+
+            s.PhoneCelular = "(077) 999-8888";
 
             s.Budget = 1000000.0;
 
@@ -65,6 +69,7 @@ namespace Memento.RealWorld
         private string _name;
 
         private string _phone;
+        private string _phoneCelular;
 
 
         // Gets or sets name
@@ -96,6 +101,18 @@ namespace Memento.RealWorld
             }
         }
 
+        public string PhoneCelular
+        {
+            get { return _phoneCelular; }
+
+            set
+            {
+                _phoneCelular = value;
+
+                Console.WriteLine("Celular:  " + _phoneCelular);
+            }
+        }
+
 
         // Gets or sets budget
 
@@ -118,7 +135,7 @@ namespace Memento.RealWorld
         {
             Console.WriteLine("\nSaving state --\n");
 
-            var next = new Memento(_name, _phone, _budget);
+            var next = new Memento(_name, _phone, _phoneCelular, _budget);
             atual.NextMemento = next;
             next.PreviousMemento = atual;
 
@@ -145,7 +162,10 @@ namespace Memento.RealWorld
 
             Phone = memento.Phone;
 
+            PhoneCelular = memento.PhoneCelular;
+
             Budget = memento.Budget;
+
         }
     }
 
@@ -157,13 +177,17 @@ namespace Memento.RealWorld
     {
         // Constructor
 
-        public Memento(string name, string phone, double budget)
+        public Memento(string name, string phone, string phoneCelular, double budget)
         {
+
             Name = name;
 
             Phone = phone;
 
+            PhoneCelular = phoneCelular;
+
             Budget = budget;
+
         }
 
 
@@ -175,6 +199,8 @@ namespace Memento.RealWorld
         // Gets or set phone
 
         public string Phone { get; set; }
+
+        public string PhoneCelular { get; set; }
 
 
         // Gets or sets budget

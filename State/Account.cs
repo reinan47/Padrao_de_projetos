@@ -34,6 +34,11 @@ namespace State.RealWorld
 
             account.Withdraw(1100.00);
 
+            account.Deposit(10000);
+
+            account.PayInterest();
+
+            account.Withdraw(300.00);
 
             // Wait for user
 
@@ -258,11 +263,12 @@ namespace State.RealWorld
         }
 
 
+
         private void Initialize()
         {
             // Should come from a database
 
-            interest = 0.05;
+            interest = 0.10;
 
             lowerLimit = 1000.0;
 
@@ -308,6 +314,76 @@ namespace State.RealWorld
         }
     }
 
+    internal class DiamondState : State
+    {
+        // Overloaded constructors
+
+        public DiamondState(State state)
+            : this(state.Balance, state.Account)
+        {
+        }
+
+
+        public DiamondState(double balance, Account account)
+        {
+            this.balance = balance;
+
+            this.account = account;
+
+            Initialize();
+        }
+
+
+
+        private void Initialize()
+        {
+            // Should come from a database
+
+            interest = 0.05;
+
+            lowerLimit = 1000.0;
+
+            upperLimit = 100000.0;
+        }
+
+
+        public override void Deposit(double amount)
+        {
+            balance += amount;
+
+            StateChangeCheck();
+        }
+
+
+        public override void Withdraw(double amount)
+        {
+            balance -= amount;
+
+            StateChangeCheck();
+        }
+
+
+        public override void PayInterest()
+        {
+            balance += interest * balance;
+
+            StateChangeCheck();
+        }
+
+
+        private void StateChangeCheck()
+        {
+            if (balance < 1000.0)
+            {
+                account.State = new SilverState(this);
+            }
+
+            else if (balance < lowerLimit)
+            {
+                account.State = new GoldState(this);
+            }
+        }
+    }
 
     /// <summary>
     /// The 'Context' class
